@@ -7,6 +7,12 @@
 ## 浏览器系统知识
 
 ## JavaScript核心原理
+* JavaScript 类型系统
+  
+* JavaScript 面向对象系统
+    * [构造器](https://github.com/XiaoDHuang/node_index/issues/7)
+    * [super](https://github.com/XiaoDHuang/node_index/issues/6)
+    * [new.target](https://github.com/XiaoDHuang/node_index/issues/9)
 
 ## css 相关系统知识
 
