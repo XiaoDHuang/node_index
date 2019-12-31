@@ -8,7 +8,8 @@
 
 ## JavaScript核心原理
 * JavaScript 类型系统
-  
+    * [概述](https://github.com/XiaoDHuang/node_index/issues/8)
+    * 类型转换
 * JavaScript 面向对象系统
     * [构造器](https://github.com/XiaoDHuang/node_index/issues/7)
     * [super](https://github.com/XiaoDHuang/node_index/issues/6)
