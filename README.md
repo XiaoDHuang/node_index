@@ -7,6 +7,9 @@
 ## 浏览器系统知识
 
 ## JavaScript核心原理
+* JavaScript 执行系统
+    * 环境
+    * 执行上下文
 * JavaScript 类型系统
     * [概述](https://github.com/XiaoDHuang/node_index/issues/8)
     * 类型转换
