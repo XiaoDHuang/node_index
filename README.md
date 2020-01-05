@@ -12,6 +12,7 @@
     * 执行上下文
 * JavaScript 类型系统
     * [概述](https://github.com/XiaoDHuang/node_index/issues/8)
+    * 规范引用类型
     * 类型转换
 * JavaScript 面向对象系统
     * [构造器](https://github.com/XiaoDHuang/node_index/issues/7)
